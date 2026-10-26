@@ -1,5 +1,17 @@
+node_modules/
+.expo/
+.expo-shared/
+android/
+ios/
+.expo/
+dist/
+%ProgramData%/
+npm-debug.*
+*.log
 .env
-.env*.local
+.vscode/
+
+
 
 
 
